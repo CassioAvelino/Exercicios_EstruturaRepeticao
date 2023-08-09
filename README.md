@@ -4,6 +4,8 @@
 # Exercicios_EstruturaRepeticao
 Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos] - Seção 6 - Nelio Alves.
 
+Problemas resolvidos para treinar os Métodos de Repetição.
+
 🔁 While: <br>
 1️⃣ Programa que valida quando a senha correta é digitada (2002). <br>
 2️⃣ Programa indica a qual quadrante pertence cada coordenada (X,Y), porém se alguma for nula, ele encerra. <br>
